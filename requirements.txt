@@ -1,0 +1,9 @@
+jupyter
+jupyterlab
+tensorflow
+keras
+matplotlib
+gym
+numpy
+pandas
+scipy
